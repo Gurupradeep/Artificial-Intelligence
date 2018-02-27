@@ -1,1 +1,1 @@
-
+All the details of the experiments carried out are explained in [Report](https://github.com/Gurupradeep/Artificial-Intelligence/blob/master/Assignment1/Report.pdf) and the Plots are present in [Plots](https://github.com/Gurupradeep/Artificial-Intelligence/tree/master/Assignment1/Plots) and results i.e csv files of the various model performances are present in [Results](https://github.com/Gurupradeep/Artificial-Intelligence/tree/master/Assignment1/Results)
